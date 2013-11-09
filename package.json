@@ -1,0 +1,13 @@
+{
+  "name": "cb-jsdoc-tpl",
+  "version": "0.0.1",
+  "description": "A custom template for jsdoc used by Couchnode.",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/brett19/cb-jsdoc-tpl"
+  },
+  "author": {
+    "name": "Brett Lawson",
+    "email": "brett19@gmail.com"
+  }
+}
